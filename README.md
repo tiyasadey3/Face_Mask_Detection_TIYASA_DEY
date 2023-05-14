@@ -13,7 +13,8 @@ In this project I used CNN ( convolutional Neural network) since i was working w
 
 Now coming to the technology which i used in this project is deep learning and packages which I used is tensorflow and keras. to build the model. 
 
-For building the model we will be using Tränsfer learning. That means I used a pretrained model that is MobileNet V2 whitch was also trained over an image dataset. That means this model knows how to extract features from Images, so and then add extra layers to finally classify the image as per our needs.
+# For building the model 
+we will be using Tränsfer learning. That means I used a pretrained model that is MobileNet V2 whitch was also trained over an image dataset. That means this model knows how to extract features from Images, so and then add extra layers to finally classify the image as per our needs.
 
 Here I used Sigmoid activation function. and train the model in google colab and saved the weights and architecture of the model for testing the model.
 
